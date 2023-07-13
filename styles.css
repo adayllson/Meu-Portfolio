@@ -67,3 +67,48 @@ h1 span {
     color: #fff;
     font-size: 25px;
 }
+
+section {
+    display: flex;
+    align-items: center;
+    padding: 50px 15%;
+    background-color: #000;
+    
+   
+}
+
+section img {
+    height: 400px;
+    border-radius: 100%;
+    border: 2px solid #024dbe;
+    margin-right: 50px;
+}
+
+section div h2 {
+    color: #fff;
+    font-size: 55px;
+}
+
+section div p {
+    color: #9fc0f1;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+
+section div button {
+    color: #fff;
+    background: #024dbe;
+    height: 50px;
+    width: 200px;
+    font-size: 16px;
+    border: none;
+    border-radius: 26px;
+    cursor: pointer;
+}
+
+section div button:hover {
+    background-color: #000;
+    border: 3px solid #024dbe;
+    transition: 0.5s;
+}
