@@ -112,3 +112,52 @@ section div button:hover {
     border: 3px solid #024dbe;
     transition: 0.5s;
 }
+
+.projetos {
+    background-color: #191919;
+}
+
+.projetos h2 {
+    color: #fff;
+    font-size: 50px;
+}
+
+.card {
+    background-color: #000;
+    height: 365px;
+    width: 365px;
+    border-radius: 20px;
+    padding: 20px 35px;
+    text-align: center;
+}
+
+.card img {
+    height: 100px;
+}
+
+.card h5 {
+    color: #fff;
+    font-size: 20px;
+    
+}
+
+.card p {
+    color: #9fc0f1;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.card a {
+    background-color: #024dbe;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.card a:hover {
+    background-color: transparent;
+    border: 2px solid #024dbe;
+    
+}
