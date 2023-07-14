@@ -43,6 +43,11 @@ li {
 
 }
 
+.link-menu {
+    text-decoration: none;
+    color: #fff;
+}
+
 li:hover {
     color: #024dbe;
     transition: 0.5s;
