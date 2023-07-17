@@ -66,7 +66,7 @@ li:hover {
     left: 8%;
 }
 
-h1 {
+.meu-nome h1 {
     color: #fff;
     font-size: 55px;
 }
@@ -140,7 +140,7 @@ section div button:hover {
     
 }
 
-.card {
+.cartao {
     background-color: #000;
     height: 365px;
     width: 365px;
@@ -149,23 +149,23 @@ section div button:hover {
     text-align: center;
 }
 
-.card img {
+.cartao img {
     height: 100px;
 }
 
-.card h5 {
+.cartao h5 {
     color: #fff;
     font-size: 20px;
     
 }
 
-.card p {
+.cartao p {
     color: #9fc0f1;
     margin-top: 20px;
     margin-bottom: 40px;
 }
 
-.card a {
+.cartao a {
     background-color: #024dbe;
     color: #fff;
     padding: 10px 20px;
@@ -175,13 +175,13 @@ section div button:hover {
     text-decoration: none;
 }
 
-.card a:hover {
+.cartao a:hover {
     background-color: transparent;
     border: 2px solid #024dbe;
     
 }
 
-.card-projetos {
+.cartao-projetos {
     display: flex;
     justify-content: space-around;
     margin-top: 100px;
